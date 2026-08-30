@@ -1,8 +1,8 @@
 # Hi, I'm Logan Wisniewski 👋
 
-### Software Engineer building thoughtful, high-quality digital products
+### Technical Lead / Senior Software Developer
 
-Lead Web Developer with a strong foundation in software development across frontend, backend, and product-minded engineering. I specialize in WordPress, Gutenberg, and React—crafting user-centric experiences and elevating web standards through thoughtful technical leadership.
+I lead software projects from first conversation to production, and I stay involved after launch. Day to day that covers requirements, UX and UI, architecture, hands-on development, deployment, testing, security, and observability. My focus areas are web applications, third-party integrations, and data engineering. What I care about most is shipping software that works for real users and stays maintainable for the team that inherits it.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/logan-wisniewski/)
 
